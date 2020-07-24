@@ -12,3 +12,5 @@ https://github.com/alibaba/sentinel-golang/issues/177
 https://github.com/micro/go-micro/issues/1856
 
 4. danny-data 爬虫
+
+5. sentinel-go 如何使用nacos 配置中心。 可以写一篇文档
