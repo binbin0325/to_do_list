@@ -13,8 +13,10 @@ https://github.com/micro/go-micro/issues/1856
 
 4. danny-data 爬虫 （进度100%）
 
-5. sentinel-go 如何使用nacos 配置中心。 可以写一篇文档 （进度0%）
+5. sentinel-go 如何使用nacos 配置中心。 可以写一篇文档 （进度20%）
 
 6. go-mirco 如何使用nacos注册中心，写一篇文档（进度0%）
 
 7. sentienl-go 规则管理/数据源：rule manager 支持 cache 机制
+
+8. B站爬虫（进度0%）
