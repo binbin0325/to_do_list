@@ -21,8 +21,8 @@ https://github.com/micro/go-micro/issues/1856
 
 8. B站爬虫（进度0%）
 
-9. 在线协作(进度10%)
+9. 在线协作(进度30%)
 
 10. sentienl-go 提供common Rule, 对所有资源生效
 
-11. sentienl-go 支持对rule append 以及对指定rule进行更新
+11. sentienl-go 支持对rule append 以及对指定rule进行更新(进度30%)
