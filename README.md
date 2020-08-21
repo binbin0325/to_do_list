@@ -26,3 +26,5 @@ https://github.com/micro/go-micro/issues/1856
 10. sentienl-go 提供common Rule, 对所有资源生效
 
 11. sentienl-go 支持对rule append 以及对指定rule进行更新(进度30%)
+
+12. jupiter 集成nacos 注册中心,配置中心
