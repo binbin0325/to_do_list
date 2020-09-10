@@ -33,4 +33,8 @@ https://github.com/micro/go-micro/issues/1856
 
 14. dannyData redis 全文检索 80%
 
+15. dannyData 数据存储ES, 单独创建service 进行 查询ES数据
+
+16. dannyData 后端生成echart报表.
+
 2020.09.03 成为 nacos commiter
