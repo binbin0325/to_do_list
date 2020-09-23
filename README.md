@@ -38,3 +38,14 @@ https://github.com/micro/go-micro/issues/1856
 16. dannyData 后端生成echart报表.
 
 2020.09.03 成为 nacos commiter
+
+17.nacos-example 升级客户端版本
+
+18.sentinel-golang rule加载使用chan
+
+19.验证列表服务间隙性丢失
+
+20.nacos-go-sdk github action 修改UT dataId
+
+21.nacos-go-sdk 指针类型设计
+
