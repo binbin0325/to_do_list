@@ -39,16 +39,16 @@ https://github.com/micro/go-micro/issues/1856
 
 2020.09.03 成为 nacos commiter
 
-17.nacos-example 升级客户端版本
+17.nacos-example 升级客户端版本100%
 
 18.sentinel-golang rule加载使用chan
 
-19.验证列表服务间隙性丢失
+19.验证列表服务间隙性丢失 100%
 
-20.nacos-go-sdk github action 修改UT dataId
+20.nacos-go-sdk github action 修改UT dataId 100%
 
 21.nacos-go-sdk 指针类型设计
 
 22.整理nacos 心跳 注册服务逻辑
 
-23.nacos-go-sdk client_config cachemap bug
+23.nacos-go-sdk client_config cachemap bug 100%
