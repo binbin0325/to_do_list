@@ -52,3 +52,5 @@ https://github.com/micro/go-micro/issues/1856
 22.整理nacos 心跳 注册服务逻辑
 
 23.nacos-go-sdk client_config cachemap bug 100%
+
+24.apiserver本地开发环境搭建
